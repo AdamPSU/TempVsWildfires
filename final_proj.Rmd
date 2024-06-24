@@ -1,0 +1,226 @@
+---
+title: "Adam Torres Encarnacion"
+output: html_notebook
+---
+
+```{r}
+library(dplyr)
+library(ggplot2)
+library(tidyr)
+library(tidyverse)
+library(patchwork)
+
+library(stringr)
+```
+
+
+# Research Question 
+
+I wish to investigate the correlation between annual land burned by wildfires and the steady rises in temperature caused by global warming. Is there a positive relationship between these two variables (ρ > 0)? Personally, this information interests me as wildfires have evidently become a pervasive problem throughout the globe, with a cause that is still shrouded in mystery. By conducting this analysis, I hope to question the roots of these wildfires and maybe understand on a deeper level why these fires continue to ravage our forests. 
+
+# Data Intake 
+
+```{r}
+tempChanges <- read.csv("TemperatureChanges.csv", fileEncoding = "latin1") 
+burntArea <- read.csv("AnnualAreaBurnt.csv")
+```
+
+
+```{r}
+head(tempChanges, 3)
+```
+
+```{r}
+str(burntArea) # the 'Year' variable is an int, which will need to be converted later
+```
+
+# Data Wrangling 
+
+### Renaming
+ 
+
+```{r}
+tempChanges <- tempChanges %>%
+               rename(country = Area, 
+                      months = Months, 
+                      element = Element,
+                      unit = Unit)
+burntArea <- burntArea %>%
+             rename(year = Year, 
+                    country = Entity, 
+                    area = `Annual.area.burnt.by.wildfires`)
+```
+
+### Filtering
+
+I need to do a little filtering. As for the tempChanges dataset, I don't care about the 
+Standard Deviation; I only want the tempChanges. Additionally, the presence of a 'Unit' feature
+means that there may be other units. While a more sophisticated model would convert these back to 
+celsius, I will simply remove them to maintain simplicity. 
+
+```{r}
+tempChanges <- tempChanges %>% 
+               filter(element == "Temperature change", # Keep only `Temperature change` rows
+                      unit =="°C") # Keep only `°C` rows
+```
+
+Now that I've done the preliminary filtering, I will simply remove the two columns as they are no longer needed.
+
+```{r}
+tempChanges <- tempChanges %>%
+               select(-element, -unit) # Keep everything except these two features
+```
+
+The 'code' feature in the BurntArea dataset is unreliable as there are missing values, therefore it will get removed. Additionally, now is the time to convert the 'year' variable into 'chr.'
+
+```{r}
+burntArea <- burntArea %>%
+             select(-Code) %>%
+             mutate(year = as.character(year)) # Transform `year` into a categorical feature
+```
+
+### Transforming TempChanges 
+
+The burntArea dataset is now glyph-ready. 'tempChanges', however, still has a long way to go. I will work 
+towards grouping the year columns together for simplicity. 
+
+```{r}
+tempChanges <- tempChanges %>% 
+               pivot_longer(cols=starts_with('Y'), # `pivot_longer()` turns "wide" data into "long" data
+                            names_to='year', 
+                            values_to='temp.changes')
+
+head(tempChanges, 3)
+```
+
+Great; we've eliminated the biggest problem, the 'wide' dataframe. There are just two problems left. 
+We'll handle them one by one. First, as you may notice, there's a prefix of 'Y' before the 'year' 
+feature. This is an easy fix: 
+
+```{r}
+
+# Utilize a regex substitution to match the prefix and replace it with ""
+remove_prefix <- function(prefix, word) { 
+    pattern <- paste0("^", prefix)
+    return(sub(pattern, "", word))
+}
+
+# Apply function to all rows
+tempChanges <- tempChanges %>% mutate(year = remove_prefix('Y', year))
+```
+
+Secondly, it can be seen that the data is currently grouped by months in a year, but we only want 
+years. Now, we are tasked with a decision: how do we handle the extra information? For my example,
+I've decided to simply group them together and compute the median of the twelve months. 
+
+```{r}
+tempChanges <- tempChanges %>% 
+               group_by(country, year) %>%
+               summarise("median temp change" = median(temp.changes)) # Compute median for all values
+
+head(tempChanges, 3)
+```
+
+# Data Visualization: Part 1 
+
+Before visualizing our results, let's inspect some of our finalized data. 
+
+### Wildfire Histogram
+
+```{r}
+ggplot(burntArea) +
+  aes(x = year, y = area) +
+  geom_col(fill = "#866FE4") +
+    labs(
+    x = "Year",
+    y = "Area Burnt",                      
+    title = "Area Burnt by Year", 
+    caption = "Source: burntArea.csv"  
+  ) +
+  theme_minimal()
+```
+There doesn't appear to be an obvious relationship between the year and the area burnt. Of course, 
+the area burnt in 2024 is far less than the other years because the year hasn't finished yet. 
+
+### Temperature Change Histogram
+
+```{r}
+area_burnt_graph <- ggplot(tempChanges) +
+  aes(x = year, y = `median temp change`) +
+  geom_col(fill = "#FF4614") +
+  labs(
+    x = "Year",
+    y = "Temperature Changes",                      
+    title = "Temperature Changes by Year", 
+    caption = "Source: tempChanges.csv"  
+  ) +
+  theme_minimal()
+
+area_burnt_graph + theme(axis.text.x=element_blank(), 
+      axis.ticks.x=element_blank()
+    )
+```
+The relationship is almost obvious. As the years go by, there is a noticeably large 
+change in temperature. While this change was largely unnoticeabe in the 60's, the trend
+follows a roughly quadratic change in temperature that only continues as time passes by. 
+
+# Data Visualization: Part 2
+
+Now, both datasets are glyph-ready. All that's left to do is join them. Naturally, there
+exist slight implications. The burntArea dataset only contains entries as early as 2012, 
+so many of the years in the tempChanges dataset will be lost. Additionally, we cannot
+hope that many of the countries will perfectly match; for that, rigorous testing must be 
+made. As such, we will only stick with the basics and perform a simple inner join, knowing
+that data must be lost in the process. 
+
+```{r}
+tempByArea <- inner_join(tempChanges, burntArea, by= c("country", "year"))
+```
+
+### Scatterplot 
+
+```{r}
+temp_by_area_graph <- ggplot(tempByArea) +
+  aes(x = `median temp change`, y = area, colour = as.numeric(year)) +
+  geom_jitter(size = 3) +
+  geom_smooth(se = FALSE) +
+  scale_color_gradient(name = "Year") +
+  labs(
+    x = "Median Temperature Change",
+    y = "Area",                      
+    title = "Median Temperature Change by Area", 
+    caption = "Source: tempByArea.csv"  
+  ) +
+  theme_minimal()
+
+temp_by_area_graph
+```
+The data presents some interesting results. There appears to be no discernible relationship between the median temperature change and annual area burned by wildfires, which means that my hypothesis about the cause of wildfires was incorrect. While the results do not provide significant evidence for my research hypothesis (according to statistical software, ρ = -0.014 with a confidence interval of (-0.064, 0.036)), my model ultimately provides slight confirmation to the idea that global warming is a tangible problem in our age, as every increase in median temperature change corresponds to a brighter hue, indicating a more recent year. So, despite wildfires' cause still being an enigma, being able to draw statistical evidence for another related concern is a great success.
+
+### Box plots: What about America?
+
+We've analyzed the results on a global scale; now, let's see if the same trends can be shown in America. First, though, there are some preliminary filters that need to be made. The tempChanges dataset categorizes the united states as 'Northern America', while the burntArea dataset categorizes it as 'North America'. This is problematic. I will filter tempChanges to only include data regarding the United States, and then, 
+I will join the two datasets in the same way to produce the mean temperature changes by area of the United States
+
+```{r}
+tempChanges <- tempChanges %>% 
+               filter(country == 'Northern America') %>%
+               mutate(country = str_replace(country, 'Northern America', 'North America'))
+
+AmericaTempByArea <- inner_join(tempChanges, burntArea, by= c("country", "year"))
+```
+```{r}
+ggplot(AmericaTempByArea) +
+  aes(x = year, y = `median temp change`, colour = area) +
+  geom_boxplot(fill = "#112446") +
+  scale_color_viridis_c(option = "magma", direction = 1) +
+  labs(
+    x = "Year",
+    y = "Median Temperature Change",                      
+    title = "Median Temperature Change and Area by Year", 
+    caption = "Source: tempByArea.csv"  
+  ) +
+  theme_minimal()
+```
+
+Once again, there does not appear to be a strong correlation between the two features. Entries are almost sporadic, and it is hard to draw any conclusive results from the graph. Nevertheless, it is interesting to note the intricate relationships between two variables that intuitively seem related, but in reality, they are not. 

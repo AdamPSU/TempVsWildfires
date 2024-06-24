@@ -1,0 +1,1673 @@
+"country","year","median temp change","area"
+"Afghanistan",2012,0.6,10430
+"Afghanistan",2013,1.233,5892
+"Afghanistan",2014,0.671,5134
+"Afghanistan",2015,1.092,4084
+"Afghanistan",2016,1.586,9681
+"Afghanistan",2017,1.252,15400
+"Afghanistan",2018,1.524,10025
+"Afghanistan",2019,0.79,7699
+"Africa",2012,0.943,232641230
+"Africa",2013,0.978,256846240
+"Africa",2014,1.055,240621140
+"Africa",2015,1.182,263458540
+"Africa",2016,1.442,267901150
+"Africa",2017,1.224,246876270
+"Africa",2018,1.285,199871600
+"Africa",2019,1.555,231263300
+"Albania",2012,2.081,176838
+"Albania",2013,1.528,10695
+"Albania",2014,1.127,4358
+"Albania",2015,1.683,24067
+"Albania",2016,1.67,14386
+"Albania",2017,1.337,102020
+"Albania",2018,2.232,10290
+"Albania",2019,2.052,32988
+"Algeria",2012,1.317,631108
+"Algeria",2013,1.021,118219
+"Algeria",2014,1.893,297548
+"Algeria",2015,1.248,123854
+"Algeria",2016,1.815,170639
+"Algeria",2017,1.734,286797
+"Algeria",2018,1.456,34288
+"Algeria",2019,1.722,160622
+"American Samoa",2012,NA,0
+"American Samoa",2013,NA,0
+"American Samoa",2014,NA,0
+"American Samoa",2015,NA,0
+"American Samoa",2016,NA,0
+"American Samoa",2017,NA,0
+"American Samoa",2018,NA,0
+"American Samoa",2019,NA,0
+"Andorra",2012,1.335,0
+"Andorra",2013,0.656,0
+"Andorra",2014,1.673,0
+"Andorra",2015,1.953,0
+"Andorra",2016,1.917,0
+"Andorra",2017,1.947,0
+"Andorra",2018,2.168,0
+"Andorra",2019,1.951,0
+"Angola",2012,0.587,34934572
+"Angola",2013,0.883,37976476
+"Angola",2014,0.692,33951340
+"Angola",2015,1.26,39113170
+"Angola",2016,1.592,38758576
+"Angola",2017,0.893,37707620
+"Angola",2018,1.189,32351532
+"Angola",2019,1.706,40544644
+"Anguilla",2012,0.52,0
+"Anguilla",2013,0.631,0
+"Anguilla",2014,0.659,0
+"Anguilla",2015,0.916,0
+"Anguilla",2016,0.954,0
+"Anguilla",2017,0.788,0
+"Anguilla",2018,0.581,0
+"Anguilla",2019,0.853,0
+"Antigua and Barbuda",2012,0.557,0
+"Antigua and Barbuda",2013,0.678,237
+"Antigua and Barbuda",2014,0.629,192
+"Antigua and Barbuda",2015,0.887,0
+"Antigua and Barbuda",2016,0.977,150
+"Antigua and Barbuda",2017,0.824,0
+"Antigua and Barbuda",2018,0.528,373
+"Antigua and Barbuda",2019,0.859,0
+"Argentina",2012,0.894,3967815
+"Argentina",2013,0.445,4633992
+"Argentina",2014,0.747,2463466
+"Argentina",2015,0.91,3051468
+"Argentina",2016,0.441,4000894
+"Argentina",2017,1.069,4217651
+"Argentina",2018,0.828,3480067
+"Argentina",2019,0.581,3218241
+"Armenia",2012,1.752,20613
+"Armenia",2013,1.44,24619
+"Armenia",2014,1.827,9261
+"Armenia",2015,1.979,12661
+"Armenia",2016,1.446,18346
+"Armenia",2017,1.255,27638
+"Armenia",2018,2.604,26371
+"Armenia",2019,1.864,27554
+"Aruba",2012,0.565,0
+"Aruba",2013,1.018,0
+"Aruba",2014,0.864,0
+"Aruba",2015,1.601,0
+"Aruba",2016,1.025,0
+"Aruba",2017,1.143,0
+"Aruba",2018,0.914,0
+"Aruba",2019,NA,0
+"Asia",2012,0.801,40942984
+"Asia",2013,0.937,36901384
+"Asia",2014,0.909,47901564
+"Asia",2015,1.284,51810916
+"Asia",2016,1.457,39271100
+"Asia",2017,1.411,34420110
+"Asia",2018,1.192,25441148
+"Asia",2019,1.397,43636796
+"Australia",2012,0.273,65298350
+"Australia",2013,1.437,26240098
+"Australia",2014,1.139,35916156
+"Australia",2015,0.924,33967664
+"Australia",2016,1.138,22835256
+"Australia",2017,1.117,37974830
+"Australia",2018,1.112,36700170
+"Australia",2019,1.423,36397800
+"Austria",2012,2.146,488
+"Austria",2013,1.131,458
+"Austria",2014,2.563,966
+"Austria",2015,1.967,557
+"Austria",2016,1.916,0
+"Austria",2017,1.943,875
+"Austria",2018,2.686,430
+"Austria",2019,2.526,1477
+"Azerbaijan",2012,2.053,78261
+"Azerbaijan",2013,1.58,79542
+"Azerbaijan",2014,1.69,50756
+"Azerbaijan",2015,1.698,227596
+"Azerbaijan",2016,1.776,106751
+"Azerbaijan",2017,1.53,110756
+"Azerbaijan",2018,2.281,87672
+"Azerbaijan",2019,2.272,184967
+"Bahamas",2012,0.376,21329
+"Bahamas",2013,0.588,58996
+"Bahamas",2014,0.672,17367
+"Bahamas",2015,1.103,24369
+"Bahamas",2016,0.937,36787
+"Bahamas",2017,1.247,72057
+"Bahamas",2018,0.923,11815
+"Bahamas",2019,1.322,26506
+"Bahrain",2012,1.618,0
+"Bahrain",2013,1.572,0
+"Bahrain",2014,2.083,0
+"Bahrain",2015,2.441,0
+"Bahrain",2016,1.964,0
+"Bahrain",2017,2.459,0
+"Bahrain",2018,2.359,0
+"Bahrain",2019,2.377,0
+"Bangladesh",2012,0.374,324609
+"Bangladesh",2013,0.577,330450
+"Bangladesh",2014,0.59,358909
+"Bangladesh",2015,0.962,159333
+"Bangladesh",2016,1.42,187927
+"Bangladesh",2017,1.376,152931
+"Bangladesh",2018,0.993,228510
+"Bangladesh",2019,1.211,281726
+"Barbados",2012,0.75,0
+"Barbados",2013,0.965,0
+"Barbados",2014,0.675,263
+"Barbados",2015,NA,0
+"Barbados",2016,1.432,183
+"Barbados",2017,NA,0
+"Barbados",2018,0.98,187
+"Barbados",2019,NA,0
+"Belarus",2012,1.534,46697
+"Belarus",2013,1.247,19157
+"Belarus",2014,1.702,120299
+"Belarus",2015,2.387,174500
+"Belarus",2016,1.849,18731
+"Belarus",2017,1.577,29649
+"Belarus",2018,2.252,28324
+"Belarus",2019,2.657,98213
+"Belgium",2012,1.12,0
+"Belgium",2013,0.467,306
+"Belgium",2014,2.55,754
+"Belgium",2015,1.278,180
+"Belgium",2016,1.619,473
+"Belgium",2017,1.719,0
+"Belgium",2018,2.464,282
+"Belgium",2019,2.147,734
+"Belize",2012,0.445,72790
+"Belize",2013,0.631,199163
+"Belize",2014,0.322,100090
+"Belize",2015,1.274,158305
+"Belize",2016,0.9,105952
+"Belize",2017,1.158,115603
+"Belize",2018,0.798,69255
+"Belize",2019,1.636,173371
+"Benin",2012,0.725,1268566
+"Benin",2013,0.961,1550504
+"Benin",2014,1.008,1373208
+"Benin",2015,1.271,1257442
+"Benin",2016,1.33,1330495
+"Benin",2017,1.307,1384900
+"Benin",2018,1.194,489603
+"Benin",2019,1.306,1108735
+"Bhutan",2012,0.555,40020
+"Bhutan",2013,0.748,15307
+"Bhutan",2014,1.151,30306
+"Bhutan",2015,1.214,24754
+"Bhutan",2016,1.591,17693
+"Bhutan",2017,1.551,18253
+"Bhutan",2018,1.601,6844
+"Bhutan",2019,1.223,8753
+"Bosnia and Herzegovina",2012,2.083,210477
+"Bosnia and Herzegovina",2013,1.368,12133
+"Bosnia and Herzegovina",2014,1.741,11133
+"Bosnia and Herzegovina",2015,1.69,52615
+"Bosnia and Herzegovina",2016,1.647,45811
+"Bosnia and Herzegovina",2017,1.449,133787
+"Bosnia and Herzegovina",2018,2.308,8118
+"Bosnia and Herzegovina",2019,2.331,47933
+"Botswana",2012,0.822,2113323
+"Botswana",2013,1.117,1838538
+"Botswana",2014,0.18,1113764
+"Botswana",2015,1.893,1166576
+"Botswana",2016,1.334,818335
+"Botswana",2017,0.457,2581796
+"Botswana",2018,0.78,1356382
+"Botswana",2019,1.792,865061
+"Brazil",2012,1.222,39105944
+"Brazil",2013,1.051,18181296
+"Brazil",2014,1.293,28605306
+"Brazil",2015,1.714,41041716
+"Brazil",2016,1.505,30046108
+"Brazil",2017,1.486,37599004
+"Brazil",2018,1.284,19926660
+"Brazil",2019,1.674,33956044
+"British Virgin Islands",2012,0.548,0
+"British Virgin Islands",2013,0.595,0
+"British Virgin Islands",2014,0.683,0
+"British Virgin Islands",2015,0.983,0
+"British Virgin Islands",2016,0.999,0
+"British Virgin Islands",2017,0.7,139
+"British Virgin Islands",2018,0.649,299
+"British Virgin Islands",2019,0.831,0
+"Bulgaria",2012,2.03,219605
+"Bulgaria",2013,1.438,116161
+"Bulgaria",2014,1.1,61373
+"Bulgaria",2015,1.438,77767
+"Bulgaria",2016,1.875,132490
+"Bulgaria",2017,1.635,140503
+"Bulgaria",2018,1.834,124715
+"Bulgaria",2019,2.368,203894
+"Burkina Faso",2012,0.522,1144833
+"Burkina Faso",2013,0.7,1549970
+"Burkina Faso",2014,0.798,1300879
+"Burkina Faso",2015,1.118,1191622
+"Burkina Faso",2016,1.202,1433863
+"Burkina Faso",2017,1.175,1447226
+"Burkina Faso",2018,1.135,435401
+"Burkina Faso",2019,1.075,1082283
+"Burundi",2012,NA,57098
+"Burundi",2013,NA,96080
+"Burundi",2014,NA,53703
+"Burundi",2015,NA,121574
+"Burundi",2016,NA,98272
+"Burundi",2017,NA,48121
+"Burundi",2018,NA,32679
+"Burundi",2019,NA,52200
+"Cambodia",2012,0.871,2227220
+"Cambodia",2013,0.638,4204547
+"Cambodia",2014,0.737,3649987
+"Cambodia",2015,1.072,4592000
+"Cambodia",2016,1.373,4569904
+"Cambodia",2017,0.946,2657436
+"Cambodia",2018,0.626,1668850
+"Cambodia",2019,1.408,3540660
+"Cameroon",2012,0.486,3116849
+"Cameroon",2013,0.886,3326300
+"Cameroon",2014,0.895,3311636
+"Cameroon",2015,1.214,3289635
+"Cameroon",2016,1.236,3949384
+"Cameroon",2017,1.16,4002150
+"Cameroon",2018,1.033,2150495
+"Cameroon",2019,1.613,3385443
+"Canada",2012,1.918,2153806
+"Canada",2013,1.186,3887455
+"Canada",2014,0.566,4377769
+"Canada",2015,1.276,4085320
+"Canada",2016,1.859,1552176
+"Canada",2017,1.32,4044314
+"Canada",2018,0.62,2874870
+"Canada",2019,1.218,2099705
+"Cayman Islands",2012,0.507,0
+"Cayman Islands",2013,0.663,0
+"Cayman Islands",2014,0.854,0
+"Cayman Islands",2015,1.187,0
+"Cayman Islands",2016,1.059,0
+"Cayman Islands",2017,0.941,0
+"Cayman Islands",2018,0.587,0
+"Cayman Islands",2019,0.891,0
+"Central African Republic",2012,0.603,11779837
+"Central African Republic",2013,0.835,15939629
+"Central African Republic",2014,0.72,17592108
+"Central African Republic",2015,0.986,19772344
+"Central African Republic",2016,1.222,21646164
+"Central African Republic",2017,1.2,17282400
+"Central African Republic",2018,1.188,14177535
+"Central African Republic",2019,1.481,14998084
+"Chad",2012,0.52,6182291
+"Chad",2013,1.099,6200586
+"Chad",2014,1.027,5109721
+"Chad",2015,1.486,5230042
+"Chad",2016,1.537,6893435
+"Chad",2017,1.216,5472023
+"Chad",2018,1.496,3109374
+"Chad",2019,1.297,4957446
+"Chile",2012,0.486,275834
+"Chile",2013,0.445,290542
+"Chile",2014,0.347,327965
+"Chile",2015,0.701,512327
+"Chile",2016,0.845,340882
+"Chile",2017,0.68,900075
+"Chile",2018,0.41,278799
+"Chile",2019,0.471,341081
+"China",2012,0.589,2554228
+"China",2013,1.206,3548627
+"China",2014,0.998,5535360
+"China",2015,1.286,4716652
+"China",2016,1.28,2687853
+"China",2017,1.514,3826106
+"China",2018,1.34,1443706
+"China",2019,1.423,2680905
+"Christmas Island",2012,0.496,0
+"Christmas Island",2013,0.978,0
+"Christmas Island",2014,0.91,0
+"Christmas Island",2015,0.912,0
+"Christmas Island",2016,1.29,0
+"Christmas Island",2017,0.607,0
+"Christmas Island",2018,NA,0
+"Christmas Island",2019,NA,0
+"Colombia",2012,0.954,1597072
+"Colombia",2013,0.933,2008298
+"Colombia",2014,0.883,2760142
+"Colombia",2015,1.29,2018249
+"Colombia",2016,1.08,2979267
+"Colombia",2017,1.083,1765401
+"Colombia",2018,1.096,1218650
+"Colombia",2019,1.392,2457393
+"Comoros",2012,0.78,1539
+"Comoros",2013,1.018,3301
+"Comoros",2014,1.137,2168
+"Comoros",2015,1.392,6316
+"Comoros",2016,1.329,1603
+"Comoros",2017,1.618,2642
+"Comoros",2018,1.406,3521
+"Comoros",2019,1.925,5455
+"Congo",2012,0.547,1743076
+"Congo",2013,0.765,2018848
+"Congo",2014,0.742,1558732
+"Congo",2015,1.038,1828266
+"Congo",2016,1.431,1919484
+"Congo",2017,1.163,1513189
+"Congo",2018,1.18,1719546
+"Congo",2019,1.445,1571287
+"Cook Islands",2012,0.484,0
+"Cook Islands",2013,0.794,0
+"Cook Islands",2014,NA,0
+"Cook Islands",2015,NA,0
+"Cook Islands",2016,NA,0
+"Cook Islands",2017,0.769,0
+"Cook Islands",2018,NA,0
+"Cook Islands",2019,0.514,0
+"Costa Rica",2012,0.35,93193
+"Costa Rica",2013,0.821,173609
+"Costa Rica",2014,0.69,113979
+"Costa Rica",2015,NA,130323
+"Costa Rica",2016,1.005,146248
+"Costa Rica",2017,0.952,81968
+"Costa Rica",2018,NA,80997
+"Costa Rica",2019,NA,128112
+"Croatia",2012,1.908,63227
+"Croatia",2013,1.405,4886
+"Croatia",2014,2.014,4971
+"Croatia",2015,1.721,18323
+"Croatia",2016,1.814,16503
+"Croatia",2017,1.547,87622
+"Croatia",2018,2.301,6343
+"Croatia",2019,2.585,22009
+"Cuba",2012,0.519,348469
+"Cuba",2013,0.833,427301
+"Cuba",2014,0.624,289674
+"Cuba",2015,1.336,544206
+"Cuba",2016,1.21,263281
+"Cuba",2017,1.303,523564
+"Cuba",2018,1.161,167831
+"Cuba",2019,1.512,292789
+"Cyprus",2012,1.252,3137
+"Cyprus",2013,1.211,3205
+"Cyprus",2014,1.243,271
+"Cyprus",2015,1.055,2114
+"Cyprus",2016,1.834,3159
+"Cyprus",2017,1.259,585
+"Cyprus",2018,1.881,1823
+"Cyprus",2019,1.636,943
+"Czechia",2012,1.586,840
+"Czechia",2013,0.883,177
+"Czechia",2014,2.637,1010
+"Czechia",2015,2.122,451
+"Czechia",2016,1.701,120
+"Czechia",2017,2.068,616
+"Czechia",2018,2.679,571
+"Czechia",2019,2.551,177
+"Denmark",2012,0.692,547
+"Denmark",2013,0.401,289
+"Denmark",2014,2.68,523
+"Denmark",2015,1.53,865
+"Denmark",2016,1.845,79
+"Denmark",2017,1.609,674
+"Denmark",2018,2.198,1239
+"Denmark",2019,2.163,0
+"Djibouti",2012,NA,0
+"Djibouti",2013,NA,0
+"Djibouti",2014,NA,0
+"Djibouti",2015,NA,0
+"Djibouti",2016,1.483,240
+"Djibouti",2017,1.667,202
+"Djibouti",2018,NA,371
+"Djibouti",2019,NA,340
+"Dominica",2012,0.707,0
+"Dominica",2013,0.712,0
+"Dominica",2014,0.713,0
+"Dominica",2015,0.93,0
+"Dominica",2016,1.08,0
+"Dominica",2017,0.837,178
+"Dominica",2018,0.556,0
+"Dominica",2019,0.758,247
+"Dominican Republic",2012,0.923,64747
+"Dominican Republic",2013,1.253,112065
+"Dominican Republic",2014,1.095,71342
+"Dominican Republic",2015,1.411,98937
+"Dominican Republic",2016,1.197,30041
+"Dominican Republic",2017,1.112,22881
+"Dominican Republic",2018,0.942,37925
+"Dominican Republic",2019,1.379,54030
+"Ecuador",2012,0.734,271812
+"Ecuador",2013,0.707,232142
+"Ecuador",2014,0.968,153318
+"Ecuador",2015,1.584,161009
+"Ecuador",2016,1.407,336476
+"Ecuador",2017,1.081,133350
+"Ecuador",2018,0.831,182300
+"Ecuador",2019,1.372,249391
+"Egypt",2012,1.272,12316
+"Egypt",2013,1.076,21482
+"Egypt",2014,1.293,17366
+"Egypt",2015,0.921,14633
+"Egypt",2016,1.481,23769
+"Egypt",2017,0.568,19769
+"Egypt",2018,1.79,11328
+"Egypt",2019,1.26,9117
+"El Salvador",2012,0.812,36901
+"El Salvador",2013,0.779,126365
+"El Salvador",2014,0.666,55231
+"El Salvador",2015,1.228,124234
+"El Salvador",2016,1.131,41175
+"El Salvador",2017,0.679,128324
+"El Salvador",2018,0.825,53427
+"El Salvador",2019,1.106,90509
+"Equatorial Guinea",2012,0.721,1393
+"Equatorial Guinea",2013,0.797,3917
+"Equatorial Guinea",2014,0.906,4823
+"Equatorial Guinea",2015,0.936,8860
+"Equatorial Guinea",2016,1.485,2620
+"Equatorial Guinea",2017,1.369,1440
+"Equatorial Guinea",2018,0.854,1589
+"Equatorial Guinea",2019,1.609,3347
+"Eritrea",2012,1.364,8718
+"Eritrea",2013,1.277,9881
+"Eritrea",2014,NA,9143
+"Eritrea",2015,1.854,7575
+"Eritrea",2016,NA,3741
+"Eritrea",2017,1.515,2675
+"Eritrea",2018,0.85,5197
+"Eritrea",2019,0.749,21660
+"Estonia",2012,1.665,0
+"Estonia",2013,1.391,296
+"Estonia",2014,2.111,235
+"Estonia",2015,2.388,212
+"Estonia",2016,1.923,4
+"Estonia",2017,1.357,0
+"Estonia",2018,2.442,1267
+"Estonia",2019,2.103,13
+"Eswatini",2012,0.584,151872
+"Eswatini",2013,0.187,166193
+"Eswatini",2014,0.566,187805
+"Eswatini",2015,1.233,79048
+"Eswatini",2016,1.619,58096
+"Eswatini",2017,0.567,98427
+"Eswatini",2018,1.101,75381
+"Eswatini",2019,1.379,221505
+"Ethiopia",2012,1.045,5965784
+"Ethiopia",2013,1.218,6985487
+"Ethiopia",2014,1.087,6141209
+"Ethiopia",2015,1.615,7442469
+"Ethiopia",2016,1.499,6985307
+"Ethiopia",2017,1.527,6126370
+"Ethiopia",2018,0.902,3389418
+"Ethiopia",2019,1.328,5224258
+"Europe",2012,1.595,28150756
+"Europe",2013,1.267,11785220
+"Europe",2014,1.412,22788308
+"Europe",2015,1.857,17351120
+"Europe",2016,1.803,17636288
+"Europe",2017,1.959,15063105
+"Europe",2018,1.69,15966279
+"Europe",2019,2.116,18681800
+"Faroe Islands",2012,0.222,0
+"Faroe Islands",2013,0.592,0
+"Faroe Islands",2014,1.728,0
+"Faroe Islands",2015,0.765,0
+"Faroe Islands",2016,0.743,0
+"Faroe Islands",2017,1.167,0
+"Faroe Islands",2018,0.738,0
+"Faroe Islands",2019,0.74,0
+"Fiji",2012,0.681,16883
+"Fiji",2013,1.071,29689
+"Fiji",2014,0.886,96830
+"Fiji",2015,0.698,50240
+"Fiji",2016,1.281,33972
+"Fiji",2017,1.312,47472
+"Fiji",2018,1.107,41883
+"Fiji",2019,1.255,13403
+"Finland",2012,1.131,851
+"Finland",2013,1.843,2113
+"Finland",2014,1.952,501
+"Finland",2015,2.839,521
+"Finland",2016,2.162,883
+"Finland",2017,1.04,697
+"Finland",2018,2.213,2897
+"Finland",2019,1.191,442
+"France",2012,1.389,54679
+"France",2013,0.662,12392
+"France",2014,2.144,40871
+"France",2015,1.579,33160
+"France",2016,1.448,30037
+"France",2017,2.151,72976
+"France",2018,2.24,11100
+"France",2019,2.01,92497
+"French Guiana",2012,1.248,34088
+"French Guiana",2013,1.09,13733
+"French Guiana",2014,1.308,14675
+"French Guiana",2015,1.447,32565
+"French Guiana",2016,1.745,42849
+"French Guiana",2017,1.446,14303
+"French Guiana",2018,1.213,28595
+"French Guiana",2019,1.537,16126
+"French Polynesia",2012,0.647,0
+"French Polynesia",2013,0.531,0
+"French Polynesia",2014,0.606,0
+"French Polynesia",2015,0.694,0
+"French Polynesia",2016,1.149,0
+"French Polynesia",2017,0.946,0
+"French Polynesia",2018,0.628,0
+"French Polynesia",2019,0.858,0
+"Gabon",2012,0.544,244038
+"Gabon",2013,0.717,249626
+"Gabon",2014,0.764,176276
+"Gabon",2015,0.908,189548
+"Gabon",2016,1.396,214136
+"Gabon",2017,1.274,189020
+"Gabon",2018,0.926,192216
+"Gabon",2019,1.586,204174
+"Gambia",2012,1.199,91356
+"Gambia",2013,1.274,108088
+"Gambia",2014,1.476,86422
+"Gambia",2015,1.53,54417
+"Gambia",2016,1.944,106890
+"Gambia",2017,2.051,120160
+"Gambia",2018,1.461,81138
+"Gambia",2019,1.705,82975
+"Georgia",2012,1.775,30527
+"Georgia",2013,1.441,26788
+"Georgia",2014,1.582,29222
+"Georgia",2015,1.928,47625
+"Georgia",2016,1.402,41654
+"Georgia",2017,1.042,52434
+"Georgia",2018,2.539,29194
+"Georgia",2019,1.809,61478
+"Germany",2012,1.151,1888
+"Germany",2013,0.771,2204
+"Germany",2014,2.754,1315
+"Germany",2015,1.671,2415
+"Germany",2016,1.815,1955
+"Germany",2017,1.688,1103
+"Germany",2018,2.593,9522
+"Germany",2019,2.339,6227
+"Ghana",2012,0.57,3277909
+"Ghana",2013,0.814,5321595
+"Ghana",2014,0.847,4935553
+"Ghana",2015,1.18,5523377
+"Ghana",2016,1.347,4801566
+"Ghana",2017,1.292,5692820
+"Ghana",2018,1.101,3147790
+"Ghana",2019,1.271,4657840
+"Gibraltar",2012,1.023,0
+"Gibraltar",2013,0.993,0
+"Gibraltar",2014,1.529,0
+"Gibraltar",2015,1.89,0
+"Gibraltar",2016,1.961,0
+"Gibraltar",2017,2.094,0
+"Gibraltar",2018,0.725,0
+"Gibraltar",2019,1.136,0
+"Greece",2012,1.812,100809
+"Greece",2013,1.392,65619
+"Greece",2014,1.141,52511
+"Greece",2015,0.759,55880
+"Greece",2016,1.664,87679
+"Greece",2017,1.221,50954
+"Greece",2018,1.652,32385
+"Greece",2019,1.491,31538
+"Greenland",2012,1.725,0
+"Greenland",2013,1.179,0
+"Greenland",2014,1.265,139
+"Greenland",2015,0.223,506
+"Greenland",2016,2.235,105
+"Greenland",2017,1.029,3740
+"Greenland",2018,0.635,0
+"Greenland",2019,1.917,1932
+"Grenada",2012,0.898,0
+"Grenada",2013,1.008,0
+"Grenada",2014,0.887,0
+"Grenada",2015,1.076,0
+"Grenada",2016,1.147,0
+"Grenada",2017,1.123,0
+"Grenada",2018,0.8,0
+"Grenada",2019,0.969,0
+"Guadeloupe",2012,0.597,0
+"Guadeloupe",2013,0.657,0
+"Guadeloupe",2014,0.701,391
+"Guadeloupe",2015,0.918,0
+"Guadeloupe",2016,1.005,0
+"Guadeloupe",2017,0.817,0
+"Guadeloupe",2018,0.577,188
+"Guadeloupe",2019,0.804,0
+"Guatemala",2012,0.604,540431
+"Guatemala",2013,0.699,942269
+"Guatemala",2014,0.588,416256
+"Guatemala",2015,1.19,594963
+"Guatemala",2016,1.259,657280
+"Guatemala",2017,0.943,583884
+"Guatemala",2018,0.975,305163
+"Guatemala",2019,1.537,609264
+"Guinea",2012,0.668,6220890
+"Guinea",2013,1.06,7611372
+"Guinea",2014,1.089,8281819
+"Guinea",2015,1.31,7376334
+"Guinea",2016,1.599,7644579
+"Guinea",2017,1.627,7725026
+"Guinea",2018,1.393,4962162
+"Guinea",2019,1.499,7140849
+"Guinea-Bissau",2012,1.409,462718
+"Guinea-Bissau",2013,1.596,418358
+"Guinea-Bissau",2014,1.717,534307
+"Guinea-Bissau",2015,1.751,537553
+"Guinea-Bissau",2016,2.01,491963
+"Guinea-Bissau",2017,2.123,356833
+"Guinea-Bissau",2018,1.674,298413
+"Guinea-Bissau",2019,1.924,471545
+"Guyana",2012,0.944,125277
+"Guyana",2013,1.012,104194
+"Guyana",2014,1.35,134462
+"Guyana",2015,1.624,220745
+"Guyana",2016,1.72,181707
+"Guyana",2017,1.119,104980
+"Guyana",2018,0.84,115821
+"Guyana",2019,0.902,167517
+"Haiti",2012,0.898,15802
+"Haiti",2013,1.081,22381
+"Haiti",2014,1.072,10165
+"Haiti",2015,1.417,16277
+"Haiti",2016,1.333,7448
+"Haiti",2017,0.93,10194
+"Haiti",2018,1.291,9836
+"Haiti",2019,1.505,15244
+"Honduras",2012,0.618,257155
+"Honduras",2013,0.984,896580
+"Honduras",2014,0.553,803272
+"Honduras",2015,1.115,743940
+"Honduras",2016,1.369,831330
+"Honduras",2017,0.937,478325
+"Honduras",2018,0.979,790142
+"Honduras",2019,1.428,1150659
+"Hungary",2012,2.056,27134
+"Hungary",2013,1.325,6026
+"Hungary",2014,2.236,7416
+"Hungary",2015,1.884,6834
+"Hungary",2016,1.834,2226
+"Hungary",2017,1.741,5815
+"Hungary",2018,2.502,6551
+"Hungary",2019,2.767,8255
+"Iceland",2012,0.933,58
+"Iceland",2013,0.342,247
+"Iceland",2014,1.618,25145
+"Iceland",2015,0.388,2499
+"Iceland",2016,1.47,71
+"Iceland",2017,1.377,0
+"Iceland",2018,0.803,243
+"Iceland",2019,1.065,198
+"India",2012,0.317,8020169
+"India",2013,0.375,5621049
+"India",2014,0.385,6468019
+"India",2015,0.64,5295846
+"India",2016,0.816,8622244
+"India",2017,0.866,7065325
+"India",2018,0.654,6481685
+"India",2019,0.685,6163753
+"Indonesia",2012,0.443,4875990
+"Indonesia",2013,0.778,3655089
+"Indonesia",2014,0.736,8321595
+"Indonesia",2015,0.799,14101236
+"Indonesia",2016,1.41,1415318
+"Indonesia",2017,0.896,967866
+"Indonesia",2018,0.808,2930734
+"Indonesia",2019,0.947,6269736
+"Iraq",2012,1.69,209763
+"Iraq",2013,1.311,198679
+"Iraq",2014,1.307,289817
+"Iraq",2015,1.883,488802
+"Iraq",2016,1.621,441051
+"Iraq",2017,1.947,271973
+"Iraq",2018,2.186,353772
+"Iraq",2019,1.939,778327
+"Ireland",2012,0.463,3106
+"Ireland",2013,0.724,6974
+"Ireland",2014,1.355,1078
+"Ireland",2015,0.408,17250
+"Ireland",2016,1.033,2564
+"Ireland",2017,1.232,9511
+"Ireland",2018,0.827,4305
+"Ireland",2019,1.199,3096
+"Isle of Man",2012,0.241,0
+"Isle of Man",2013,0.457,0
+"Isle of Man",2014,1.519,0
+"Isle of Man",2015,0.426,0
+"Isle of Man",2016,1.124,0
+"Isle of Man",2017,1.388,0
+"Isle of Man",2018,1.031,0
+"Isle of Man",2019,1.199,0
+"Israel",2012,1.413,3452
+"Israel",2013,0.908,10488
+"Israel",2014,0.93,3293
+"Israel",2015,1.21,7352
+"Israel",2016,1.776,7518
+"Israel",2017,0.756,3094
+"Israel",2018,1.645,2929
+"Israel",2019,1.324,7568
+"Italy",2012,1.577,283320
+"Italy",2013,1.07,92330
+"Italy",2014,1.661,106717
+"Italy",2015,1.58,107517
+"Italy",2016,1.525,116890
+"Italy",2017,1.623,342084
+"Italy",2018,2.164,61279
+"Italy",2019,1.927,115769
+"Jamaica",2012,0.761,6308
+"Jamaica",2013,1.018,9248
+"Jamaica",2014,1.249,10025
+"Jamaica",2015,1.321,17799
+"Jamaica",2016,1.461,2684
+"Jamaica",2017,1.115,9210
+"Jamaica",2018,1.288,8125
+"Jamaica",2019,1.308,7659
+"Japan",2012,0.388,4656
+"Japan",2013,0.598,8339
+"Japan",2014,0.559,16322
+"Japan",2015,0.812,16638
+"Japan",2016,1.304,7106
+"Japan",2017,0.745,4702
+"Japan",2018,0.95,17344
+"Japan",2019,1.337,12490
+"Jordan",2012,1.518,0
+"Jordan",2013,0.899,413
+"Jordan",2014,0.802,0
+"Jordan",2015,1.316,1333
+"Jordan",2016,1.809,296
+"Jordan",2017,1.238,692
+"Jordan",2018,1.821,175
+"Jordan",2019,1.405,366
+"Kazakhstan",2012,1.488,4038932
+"Kazakhstan",2013,1.732,1049147
+"Kazakhstan",2014,0.682,3005037
+"Kazakhstan",2015,1.513,3342760
+"Kazakhstan",2016,1.761,1494435
+"Kazakhstan",2017,1.61,6238361
+"Kazakhstan",2018,0.646,2322906
+"Kazakhstan",2019,1.469,4126450
+"Kenya",2012,1.093,749386
+"Kenya",2013,0.951,384195
+"Kenya",2014,0.988,254513
+"Kenya",2015,1.289,366728
+"Kenya",2016,1.281,243690
+"Kenya",2017,1.666,161587
+"Kenya",2018,0.827,125244
+"Kenya",2019,1.782,334120
+"Kiribati",2012,NA,0
+"Kiribati",2013,NA,0
+"Kiribati",2014,1.165,0
+"Kiribati",2015,1.3,0
+"Kiribati",2016,1.469,0
+"Kiribati",2017,1.438,0
+"Kiribati",2018,NA,0
+"Kiribati",2019,1.402,0
+"Kuwait",2012,1.774,945
+"Kuwait",2013,1.413,174
+"Kuwait",2014,1.716,1243
+"Kuwait",2015,2.065,884
+"Kuwait",2016,1.836,3190
+"Kuwait",2017,2.38,1064
+"Kuwait",2018,2.554,623
+"Kuwait",2019,2.296,2768
+"Kyrgyzstan",2012,0.717,19067
+"Kyrgyzstan",2013,1.204,12497
+"Kyrgyzstan",2014,0.799,13299
+"Kyrgyzstan",2015,1.507,6666
+"Kyrgyzstan",2016,1.931,10077
+"Kyrgyzstan",2017,1.503,13733
+"Kyrgyzstan",2018,1.309,17416
+"Kyrgyzstan",2019,1.683,14645
+"Latvia",2012,1.533,416
+"Latvia",2013,1.401,156
+"Latvia",2014,1.752,1220
+"Latvia",2015,2.096,719
+"Latvia",2016,1.84,565
+"Latvia",2017,1.51,448
+"Latvia",2018,2.359,4594
+"Latvia",2019,2.448,1847
+"Lebanon",2012,1.618,864
+"Lebanon",2013,1.237,4034
+"Lebanon",2014,1.275,439
+"Lebanon",2015,1.265,1162
+"Lebanon",2016,1.842,2919
+"Lebanon",2017,1.474,2152
+"Lebanon",2018,1.842,472
+"Lebanon",2019,1.574,2023
+"Lesotho",2012,0.685,5774
+"Lesotho",2013,0.525,65427
+"Lesotho",2014,0.661,59946
+"Lesotho",2015,1.155,18651
+"Lesotho",2016,1.837,4629
+"Lesotho",2017,0.81,21834
+"Lesotho",2018,0.799,9258
+"Lesotho",2019,1.603,57494
+"Liberia",2012,0.759,789713
+"Liberia",2013,0.859,415136
+"Liberia",2014,0.872,677051
+"Liberia",2015,1.24,1388390
+"Liberia",2016,1.479,635794
+"Liberia",2017,1.488,646102
+"Liberia",2018,NA,367090
+"Liberia",2019,1.351,875698
+"Libya",2012,1.157,4889
+"Libya",2013,0.865,5156
+"Libya",2014,1.262,3045
+"Libya",2015,0.341,4083
+"Libya",2016,1.593,2428
+"Libya",2017,0.567,4622
+"Libya",2018,1.784,5289
+"Libya",2019,1.325,4260
+"Liechtenstein",2012,1.628,0
+"Liechtenstein",2013,0.936,0
+"Liechtenstein",2014,2.517,0
+"Liechtenstein",2015,1.875,0
+"Liechtenstein",2016,1.888,0
+"Liechtenstein",2017,1.92,0
+"Liechtenstein",2018,2.491,0
+"Liechtenstein",2019,2.129,0
+"Lithuania",2012,1.349,1347
+"Lithuania",2013,1.335,679
+"Lithuania",2014,1.576,1282
+"Lithuania",2015,2.092,1134
+"Lithuania",2016,1.779,112
+"Lithuania",2017,1.412,382
+"Lithuania",2018,2.436,822
+"Lithuania",2019,2.627,1427
+"Luxembourg",2012,1.18,0
+"Luxembourg",2013,0.565,0
+"Luxembourg",2014,2.592,0
+"Luxembourg",2015,1.41,0
+"Luxembourg",2016,1.553,0
+"Luxembourg",2017,1.753,0
+"Luxembourg",2018,2.771,0
+"Luxembourg",2019,2.194,0
+"Madagascar",2012,0.746,4971685
+"Madagascar",2013,0.637,6242591
+"Madagascar",2014,0.809,4875394
+"Madagascar",2015,1.138,5009744
+"Madagascar",2016,1.007,6359745
+"Madagascar",2017,1.269,4728002
+"Madagascar",2018,0.958,5372383
+"Madagascar",2019,1.552,4523223
+"Malawi",2012,1.097,1204588
+"Malawi",2013,0.938,1080611
+"Malawi",2014,0.997,941733
+"Malawi",2015,1.221,976728
+"Malawi",2016,1.538,1073222
+"Malawi",2017,1.417,803434
+"Malawi",2018,1.508,930012
+"Malawi",2019,1.729,880030
+"Malaysia",2012,0.813,263111
+"Malaysia",2013,0.922,216950
+"Malaysia",2014,0.951,452615
+"Malaysia",2015,1.167,287224
+"Malaysia",2016,1.566,316499
+"Malaysia",2017,1.093,44343
+"Malaysia",2018,1.09,125435
+"Malaysia",2019,1.341,197552
+"Maldives",2012,0.599,0
+"Maldives",2013,0.694,0
+"Maldives",2014,0.724,0
+"Maldives",2015,0.913,0
+"Maldives",2016,0.864,0
+"Maldives",2017,0.76,0
+"Maldives",2018,0.639,0
+"Maldives",2019,0.968,0
+"Mali",2012,0.47,2811034
+"Mali",2013,0.921,3804539
+"Mali",2014,0.924,3291185
+"Mali",2015,1.097,3009591
+"Mali",2016,1.424,3835633
+"Mali",2017,1.255,3813311
+"Mali",2018,1.088,1694418
+"Mali",2019,1.426,3104832
+"Malta",2012,1.539,0
+"Malta",2013,1.293,0
+"Malta",2014,1.571,0
+"Malta",2015,1.584,0
+"Malta",2016,1.553,0
+"Malta",2017,1.304,0
+"Malta",2018,1.743,0
+"Malta",2019,1.408,0
+"Marshall Islands",2012,0.392,0
+"Marshall Islands",2013,0.389,0
+"Marshall Islands",2014,0.432,0
+"Marshall Islands",2015,0.299,0
+"Marshall Islands",2016,0.537,0
+"Marshall Islands",2017,0.416,0
+"Marshall Islands",2018,0.2,0
+"Marshall Islands",2019,0.447,0
+"Martinique",2012,0.726,0
+"Martinique",2013,0.739,0
+"Martinique",2014,0.717,0
+"Martinique",2015,0.926,0
+"Martinique",2016,1.098,0
+"Martinique",2017,0.845,0
+"Martinique",2018,0.612,0
+"Martinique",2019,0.808,181
+"Mauritania",2012,0.8,90208
+"Mauritania",2013,1.47,87122
+"Mauritania",2014,1.254,28388
+"Mauritania",2015,1.324,16867
+"Mauritania",2016,1.602,60850
+"Mauritania",2017,1.95,38506
+"Mauritania",2018,1.171,12506
+"Mauritania",2019,1.775,41063
+"Mauritius",2012,0.652,796
+"Mauritius",2013,0.931,619
+"Mauritius",2014,1.139,1763
+"Mauritius",2015,1.412,0
+"Mauritius",2016,1.069,766
+"Mauritius",2017,1.327,720
+"Mauritius",2018,0.99,461
+"Mauritius",2019,1.418,732
+"Mayotte",2012,0.799,0
+"Mayotte",2013,0.887,268
+"Mayotte",2014,1.231,0
+"Mayotte",2015,1.316,0
+"Mayotte",2016,1.143,169
+"Mayotte",2017,1.521,0
+"Mayotte",2018,1.336,0
+"Mayotte",2019,1.828,0
+"Mexico",2012,1.055,4668263
+"Mexico",2013,0.666,5849811
+"Mexico",2014,0.853,2026653
+"Mexico",2015,1.096,3093930
+"Mexico",2016,1.301,4310462
+"Mexico",2017,1.347,6144331
+"Mexico",2018,1.146,3891019
+"Mexico",2019,1.274,6171806
+"Monaco",2012,1.431,0
+"Monaco",2013,0.754,0
+"Monaco",2014,1.905,0
+"Monaco",2015,1.869,0
+"Monaco",2016,1.734,0
+"Monaco",2017,1.921,0
+"Monaco",2018,2.42,0
+"Monaco",2019,2.106,0
+"Mongolia",2012,0.28,836011
+"Mongolia",2013,1.045,217277
+"Mongolia",2014,1.755,360956
+"Mongolia",2015,2.251,897281
+"Mongolia",2016,1.957,169399
+"Mongolia",2017,2.567,274593
+"Mongolia",2018,2.001,58495
+"Mongolia",2019,1.698,91237
+"Montenegro",2012,2.174,95984
+"Montenegro",2013,1.507,5598
+"Montenegro",2014,1.296,1694
+"Montenegro",2015,1.561,40421
+"Montenegro",2016,1.548,14368
+"Montenegro",2017,1.337,93965
+"Montenegro",2018,2.15,7195
+"Montenegro",2019,2.008,20336
+"Montserrat",2012,0.557,0
+"Montserrat",2013,0.678,0
+"Montserrat",2014,0.629,0
+"Montserrat",2015,0.887,0
+"Montserrat",2016,0.977,0
+"Montserrat",2017,0.824,0
+"Montserrat",2018,0.528,0
+"Montserrat",2019,0.859,0
+"Morocco",2012,1.725,23917
+"Morocco",2013,1.645,9685
+"Morocco",2014,1.557,8526
+"Morocco",2015,1.59,6259
+"Morocco",2016,2.081,14589
+"Morocco",2017,2.297,12247
+"Morocco",2018,0.982,10149
+"Morocco",2019,1.704,15552
+"Mozambique",2012,0.722,19297128
+"Mozambique",2013,0.489,19560360
+"Mozambique",2014,0.748,20389876
+"Mozambique",2015,0.998,19728372
+"Mozambique",2016,1.15,17360342
+"Mozambique",2017,0.802,17525736
+"Mozambique",2018,0.776,18785848
+"Mozambique",2019,1.015,19412400
+"Myanmar",2012,0.853,7975921
+"Myanmar",2013,0.798,8107111
+"Myanmar",2014,0.905,8220071
+"Myanmar",2015,1.19,6902361
+"Myanmar",2016,1.394,6242887
+"Myanmar",2017,1.23,5405192
+"Myanmar",2018,0.916,3701037
+"Myanmar",2019,1.544,6940046
+"Namibia",2012,0.086,5012176
+"Namibia",2013,1.168,2193209
+"Namibia",2014,0.666,1478703
+"Namibia",2015,1.495,1662736
+"Namibia",2016,1.739,1394799
+"Namibia",2017,0.552,1718928
+"Namibia",2018,1.474,1138630
+"Namibia",2019,2.1,693253
+"Nauru",2012,NA,0
+"Nauru",2013,NA,0
+"Nauru",2014,NA,0
+"Nauru",2015,NA,0
+"Nauru",2016,NA,0
+"Nauru",2017,NA,0
+"Nauru",2018,NA,0
+"Nauru",2019,NA,0
+"Nepal",2012,0.295,649788
+"Nepal",2013,0.327,461357
+"Nepal",2014,0.39,737601
+"Nepal",2015,0.908,149740
+"Nepal",2016,1.043,1442485
+"Nepal",2017,1.146,381442
+"Nepal",2018,0.642,419088
+"Nepal",2019,0.365,712024
+"Netherlands",2012,0.955,0
+"Netherlands",2013,0.372,591
+"Netherlands",2014,2.558,1091
+"Netherlands",2015,1.279,278
+"Netherlands",2016,1.773,0
+"Netherlands",2017,1.702,0
+"Netherlands",2018,2.307,549
+"Netherlands",2019,2.392,429
+"New Caledonia",2012,0.502,2194
+"New Caledonia",2013,0.511,11816
+"New Caledonia",2014,0.585,20840
+"New Caledonia",2015,0.789,15692
+"New Caledonia",2016,1.493,22994
+"New Caledonia",2017,1.344,49250
+"New Caledonia",2018,1.024,8728
+"New Caledonia",2019,0.851,56209
+"New Zealand",2012,0.007,39433
+"New Zealand",2013,0.918,45858
+"New Zealand",2014,0.535,48595
+"New Zealand",2015,0.569,47822
+"New Zealand",2016,1.197,36327
+"New Zealand",2017,0.625,32815
+"New Zealand",2018,0.927,26427
+"New Zealand",2019,1.073,50593
+"Nicaragua",2012,0.706,237899
+"Nicaragua",2013,1.013,586614
+"Nicaragua",2014,0.844,556111
+"Nicaragua",2015,1.045,343173
+"Nicaragua",2016,1.319,577757
+"Nicaragua",2017,0.979,258616
+"Nicaragua",2018,0.998,439224
+"Nicaragua",2019,1.173,595279
+"Niger",2012,0.823,149667
+"Niger",2013,0.859,126194
+"Niger",2014,1.149,117482
+"Niger",2015,1.276,102651
+"Niger",2016,1.375,178585
+"Niger",2017,1.006,145679
+"Niger",2018,1.269,107511
+"Niger",2019,1.548,158665
+"Nigeria",2012,0.632,3876771
+"Nigeria",2013,1.196,5314566
+"Nigeria",2014,1.154,5643045
+"Nigeria",2015,1.322,6452305
+"Nigeria",2016,1.424,7609752
+"Nigeria",2017,1.381,6985382
+"Nigeria",2018,1.136,4980880
+"Nigeria",2019,1.373,5840063
+"Niue",2012,NA,0
+"Niue",2013,NA,0
+"Niue",2014,NA,0
+"Niue",2015,NA,0
+"Niue",2016,NA,0
+"Niue",2017,NA,0
+"Niue",2018,NA,0
+"Niue",2019,NA,0
+"Norfolk Island",2012,0.231,0
+"Norfolk Island",2013,0.204,0
+"Norfolk Island",2014,0.135,0
+"Norfolk Island",2015,0.643,0
+"Norfolk Island",2016,1.181,0
+"Norfolk Island",2017,0.769,0
+"Norfolk Island",2018,0.831,0
+"Norfolk Island",2019,0.913,0
+"North Macedonia",2012,1.726,52713
+"North Macedonia",2013,1.479,22124
+"North Macedonia",2014,1.267,9135
+"North Macedonia",2015,1.514,24341
+"North Macedonia",2016,1.72,13032
+"North Macedonia",2017,1.346,49852
+"North Macedonia",2018,1.835,16342
+"North Macedonia",2019,2.086,54665
+"Norway",2012,0.623,510
+"Norway",2013,1.235,1275
+"Norway",2014,1.837,1762
+"Norway",2015,2.22,373
+"Norway",2016,1.724,235
+"Norway",2017,1.158,772
+"Norway",2018,1.451,1279
+"Norway",2019,1.16,2383
+"Oceania",2012,0.257,65788950
+"Oceania",2013,1.396,26738200
+"Oceania",2014,1.083,36737828
+"Oceania",2015,0.876,36287890
+"Oceania",2016,1.137,23255782
+"Oceania",2017,1.11,38543350
+"Oceania",2018,1.096,37604000
+"Oceania",2019,1.37,37020530
+"Oman",2012,0.702,742
+"Oman",2013,0.453,240
+"Oman",2014,0.583,504
+"Oman",2015,1.216,552
+"Oman",2016,0.854,599
+"Oman",2017,1.441,1239
+"Oman",2018,1.224,384
+"Oman",2019,0.782,635
+"Pakistan",2012,0.288,302085
+"Pakistan",2013,0.644,188623
+"Pakistan",2014,0.38,225518
+"Pakistan",2015,0.642,150217
+"Pakistan",2016,1.29,363260
+"Pakistan",2017,1.005,309860
+"Pakistan",2018,1.236,297192
+"Pakistan",2019,0.362,201111
+"Palau",2012,NA,0
+"Palau",2013,0.611,170
+"Palau",2014,0.65,0
+"Palau",2015,0.925,0
+"Palau",2016,1.088,0
+"Palau",2017,0.855,0
+"Palau",2018,NA,173
+"Palau",2019,NA,0
+"Palestine",2012,1.429,97
+"Palestine",2013,0.929,1753
+"Palestine",2014,0.924,3
+"Palestine",2015,1.217,3003
+"Palestine",2016,1.763,3075
+"Palestine",2017,0.753,237
+"Palestine",2018,1.658,0
+"Palestine",2019,1.325,2399
+"Panama",2012,0.556,113384
+"Panama",2013,0.885,98662
+"Panama",2014,0.836,119218
+"Panama",2015,1.184,188309
+"Panama",2016,1.186,231304
+"Panama",2017,1.03,91784
+"Panama",2018,NA,58699
+"Panama",2019,1.455,265611
+"Papua New Guinea",2012,0.317,400087
+"Papua New Guinea",2013,0.793,378294
+"Papua New Guinea",2014,0.481,622042
+"Papua New Guinea",2015,0.359,2162647
+"Papua New Guinea",2016,1.389,292083
+"Papua New Guinea",2017,1.223,403761
+"Papua New Guinea",2018,0.789,792659
+"Papua New Guinea",2019,0.673,484450
+"Paraguay",2012,0.929,2525905
+"Paraguay",2013,0.546,3943815
+"Paraguay",2014,0.988,2306132
+"Paraguay",2015,1.461,2128328
+"Paraguay",2016,0.254,3011839
+"Paraguay",2017,1.189,3898053
+"Paraguay",2018,0.512,2160008
+"Paraguay",2019,1.464,3377998
+"Peru",2012,1.085,1193932
+"Peru",2013,0.792,818529
+"Peru",2014,0.985,657758
+"Peru",2015,1.381,908480
+"Peru",2016,1.393,1281856
+"Peru",2017,0.974,637791
+"Peru",2018,0.767,800115
+"Peru",2019,1.108,1125897
+"Philippines",2012,0.772,136299
+"Philippines",2013,0.867,184861
+"Philippines",2014,0.78,275981
+"Philippines",2015,1.161,414670
+"Philippines",2016,1.453,470691
+"Philippines",2017,1.107,170199
+"Philippines",2018,1.123,175310
+"Philippines",2019,1.209,422242
+"Poland",2012,1.38,5752
+"Poland",2013,1.203,1260
+"Poland",2014,2.104,4671
+"Poland",2015,2.005,6567
+"Poland",2016,1.737,3204
+"Poland",2017,1.407,1067
+"Poland",2018,2.334,3880
+"Poland",2019,2.662,5121
+"Portugal",2012,0.798,141178
+"Portugal",2013,0.922,185526
+"Portugal",2014,1.331,23412
+"Portugal",2015,1.501,80261
+"Portugal",2016,1.795,208257
+"Portugal",2017,2.051,350671
+"Portugal",2018,0.773,44335
+"Portugal",2019,1.29,48929
+"Puerto Rico",2012,0.65,1994
+"Puerto Rico",2013,0.639,3639
+"Puerto Rico",2014,0.729,1955
+"Puerto Rico",2015,0.994,1528
+"Puerto Rico",2016,1.032,1329
+"Puerto Rico",2017,0.848,1028
+"Puerto Rico",2018,0.709,1509
+"Puerto Rico",2019,1.026,2517
+"Qatar",2012,1.674,942
+"Qatar",2013,1.174,1212
+"Qatar",2014,1.673,2159
+"Qatar",2015,2.123,1989
+"Qatar",2016,1.616,2469
+"Qatar",2017,2.306,1454
+"Qatar",2018,2.089,1083
+"Qatar",2019,2.085,2061
+"Romania",2012,2.002,329681
+"Romania",2013,1.452,168690
+"Romania",2014,1.313,168259
+"Romania",2015,1.764,153282
+"Romania",2016,1.909,224103
+"Romania",2017,1.498,193848
+"Romania",2018,2.251,166671
+"Romania",2019,2.617,246463
+"Rwanda",2012,NA,22757
+"Rwanda",2013,NA,47891
+"Rwanda",2014,NA,16952
+"Rwanda",2015,NA,46333
+"Rwanda",2016,NA,42346
+"Rwanda",2017,NA,23372
+"Rwanda",2018,NA,16667
+"Rwanda",2019,NA,25665
+"Saint Kitts and Nevis",2012,0.557,0
+"Saint Kitts and Nevis",2013,0.678,202
+"Saint Kitts and Nevis",2014,0.629,580
+"Saint Kitts and Nevis",2015,0.887,200
+"Saint Kitts and Nevis",2016,0.977,0
+"Saint Kitts and Nevis",2017,0.824,315
+"Saint Kitts and Nevis",2018,0.528,516
+"Saint Kitts and Nevis",2019,0.859,585
+"Saint Lucia",2012,0.841,0
+"Saint Lucia",2013,0.901,0
+"Saint Lucia",2014,0.828,0
+"Saint Lucia",2015,1.031,235
+"Saint Lucia",2016,1.153,0
+"Saint Lucia",2017,0.976,0
+"Saint Lucia",2018,0.716,0
+"Saint Lucia",2019,1.023,0
+"Saint Pierre and Miquelon",2012,1.979,0
+"Saint Pierre and Miquelon",2013,1.304,0
+"Saint Pierre and Miquelon",2014,0.957,0
+"Saint Pierre and Miquelon",2015,0.159,0
+"Saint Pierre and Miquelon",2016,0.943,0
+"Saint Pierre and Miquelon",2017,0.485,0
+"Saint Pierre and Miquelon",2018,0.963,0
+"Saint Pierre and Miquelon",2019,0.517,0
+"Saint Vincent and the Grenadines",2012,0.898,0
+"Saint Vincent and the Grenadines",2013,1.008,0
+"Saint Vincent and the Grenadines",2014,0.887,0
+"Saint Vincent and the Grenadines",2015,1.076,0
+"Saint Vincent and the Grenadines",2016,1.147,0
+"Saint Vincent and the Grenadines",2017,1.123,0
+"Saint Vincent and the Grenadines",2018,0.8,0
+"Saint Vincent and the Grenadines",2019,0.969,0
+"Samoa",2012,0.785,0
+"Samoa",2013,1.207,0
+"Samoa",2014,0.908,0
+"Samoa",2015,0.885,0
+"Samoa",2016,1.407,0
+"Samoa",2017,1.303,0
+"Samoa",2018,1.048,0
+"Samoa",2019,1.415,0
+"San Marino",2012,1.703,0
+"San Marino",2013,1.187,0
+"San Marino",2014,1.837,0
+"San Marino",2015,1.752,0
+"San Marino",2016,1.637,0
+"San Marino",2017,1.669,0
+"San Marino",2018,2.003,0
+"San Marino",2019,2.109,0
+"Sao Tome and Principe",2012,0.883,738
+"Sao Tome and Principe",2013,0.835,0
+"Sao Tome and Principe",2014,0.898,0
+"Sao Tome and Principe",2015,0.931,0
+"Sao Tome and Principe",2016,1.381,0
+"Sao Tome and Principe",2017,NA,0
+"Sao Tome and Principe",2018,NA,0
+"Sao Tome and Principe",2019,1.279,561
+"Saudi Arabia",2012,1.455,8456
+"Saudi Arabia",2013,1.19,10061
+"Saudi Arabia",2014,1.276,9953
+"Saudi Arabia",2015,1.711,8891
+"Saudi Arabia",2016,1.66,7813
+"Saudi Arabia",2017,1.852,7374
+"Saudi Arabia",2018,1.838,6026
+"Saudi Arabia",2019,1.705,7893
+"Senegal",2012,0.955,1635322
+"Senegal",2013,1.092,2159334
+"Senegal",2014,1.127,2105341
+"Senegal",2015,1.313,1443884
+"Senegal",2016,1.524,2348057
+"Senegal",2017,1.693,2495739
+"Senegal",2018,1.184,1163784
+"Senegal",2019,1.554,2044422
+"Serbia",2012,2.148,135301
+"Serbia",2013,1.517,55136
+"Serbia",2014,1.341,10870
+"Serbia",2015,1.72,32300
+"Serbia",2016,1.682,21082
+"Serbia",2017,1.284,68697
+"Serbia",2018,2.104,255834
+"Serbia",2019,2.424,171753
+"Seychelles",2012,0.828,0
+"Seychelles",2013,0.775,0
+"Seychelles",2014,0.935,0
+"Seychelles",2015,1.337,0
+"Seychelles",2016,1.188,0
+"Seychelles",2017,1.232,0
+"Seychelles",2018,1,0
+"Seychelles",2019,1.528,0
+"Sierra Leone",2012,0.667,2689348
+"Sierra Leone",2013,0.988,2354470
+"Sierra Leone",2014,1.093,3132985
+"Sierra Leone",2015,1.204,3331133
+"Sierra Leone",2016,1.516,2119691
+"Sierra Leone",2017,1.724,2070634
+"Sierra Leone",2018,NA,1504571
+"Sierra Leone",2019,1.656,2120476
+"Singapore",2012,NA,0
+"Singapore",2013,NA,0
+"Singapore",2014,NA,0
+"Singapore",2015,NA,0
+"Singapore",2016,NA,0
+"Singapore",2017,NA,0
+"Singapore",2018,NA,0
+"Singapore",2019,NA,0
+"Slovakia",2012,2.067,2633
+"Slovakia",2013,1.356,948
+"Slovakia",2014,2.35,1379
+"Slovakia",2015,2.121,962
+"Slovakia",2016,1.855,439
+"Slovakia",2017,1.602,655
+"Slovakia",2018,2.575,791
+"Slovakia",2019,2.59,285
+"Slovenia",2012,1.998,464
+"Slovenia",2013,1.382,170
+"Slovenia",2014,2.547,0
+"Slovenia",2015,2.131,0
+"Slovenia",2016,1.868,956
+"Slovenia",2017,1.729,935
+"Slovenia",2018,2.49,0
+"Slovenia",2019,2.831,163
+"Solomon Islands",2012,NA,6250
+"Solomon Islands",2013,NA,135
+"Solomon Islands",2014,NA,391
+"Solomon Islands",2015,NA,2067
+"Solomon Islands",2016,NA,616
+"Solomon Islands",2017,NA,357
+"Solomon Islands",2018,NA,569
+"Solomon Islands",2019,1.315,2896
+"Somalia",2012,1.425,84558
+"Somalia",2013,1.317,75445
+"Somalia",2014,1.365,53178
+"Somalia",2015,NA,9374
+"Somalia",2016,1.483,27258
+"Somalia",2017,2.039,8641
+"Somalia",2018,1.22,5338
+"Somalia",2019,2.103,19419
+"South Africa",2012,0.644,3929256
+"South Africa",2013,0.789,4260444
+"South Africa",2014,0.805,4065682
+"South Africa",2015,1.348,2862932
+"South Africa",2016,1.628,2092167
+"South Africa",2017,1.125,3411785
+"South Africa",2018,1.047,2832919
+"South Africa",2019,1.865,3316273
+"South America",2012,0.943,55511892
+"South America",2013,0.834,37751870
+"South America",2014,1.003,44582372
+"South America",2015,1.463,57823016
+"South America",2016,1.196,53665470
+"South America",2017,1.232,57406384
+"South America",2018,0.988,36395360
+"South America",2019,1.31,60135748
+"South Georgia and the South Sandwich Islands",2012,-0.494,0
+"South Georgia and the South Sandwich Islands",2013,-0.423,0
+"South Georgia and the South Sandwich Islands",2014,-0.422,0
+"South Georgia and the South Sandwich Islands",2015,0.131,0
+"South Georgia and the South Sandwich Islands",2016,-0.188,0
+"South Georgia and the South Sandwich Islands",2017,0.883,0
+"South Georgia and the South Sandwich Islands",2018,0.675,0
+"South Georgia and the South Sandwich Islands",2019,0.036,0
+"South Sudan",2012,1.274,18942084
+"South Sudan",2013,1.13,21998008
+"South Sudan",2014,0.886,23132828
+"South Sudan",2015,1.288,26441272
+"South Sudan",2016,1.441,26093934
+"South Sudan",2017,1.25,22291762
+"South Sudan",2018,1.122,13742708
+"South Sudan",2019,0.957,15810928
+"Spain",2012,0.941,294295
+"Spain",2013,0.794,98506
+"Spain",2014,1.558,85901
+"Spain",2015,1.649,145270
+"Spain",2016,1.649,116749
+"Spain",2017,1.989,238754
+"Spain",2018,1.231,45336
+"Spain",2019,1.439,142738
+"Sri Lanka",2012,0.943,88177
+"Sri Lanka",2013,0.813,76388
+"Sri Lanka",2014,0.92,71129
+"Sri Lanka",2015,1.044,28739
+"Sri Lanka",2016,1.329,66389
+"Sri Lanka",2017,1.153,26127
+"Sri Lanka",2018,0.813,45105
+"Sri Lanka",2019,1.339,46993
+"Sudan",2012,1.123,4888105
+"Sudan",2013,1.264,4682640
+"Sudan",2014,0.946,4328677
+"Sudan",2015,1.596,4175983
+"Sudan",2016,1.527,4378597
+"Sudan",2017,1.429,4276807
+"Sudan",2018,1.141,2092258
+"Sudan",2019,0.991,4068866
+"Suriname",2012,1.072,57760
+"Suriname",2013,1.352,18695
+"Suriname",2014,1.434,36028
+"Suriname",2015,1.14,60190
+"Suriname",2016,1.78,53335
+"Suriname",2017,1.315,26967
+"Suriname",2018,1.221,41316
+"Suriname",2019,1.607,45509
+"Sweden",2012,0.702,1962
+"Sweden",2013,1.222,2832
+"Sweden",2014,1.976,20664
+"Sweden",2015,2.192,2926
+"Sweden",2016,1.846,1939
+"Sweden",2017,1.148,1809
+"Sweden",2018,1.843,33875
+"Sweden",2019,1.567,2555
+"Switzerland",2012,1.513,0
+"Switzerland",2013,0.937,0
+"Switzerland",2014,2.227,0
+"Switzerland",2015,1.935,162
+"Switzerland",2016,1.423,505
+"Switzerland",2017,2.213,271
+"Switzerland",2018,2.532,321
+"Switzerland",2019,2.075,13
+"Tajikistan",2012,0.298,2714
+"Tajikistan",2013,1.19,13927
+"Tajikistan",2014,0.568,8477
+"Tajikistan",2015,1.195,3426
+"Tajikistan",2016,1.928,6433
+"Tajikistan",2017,1.165,4043
+"Tajikistan",2018,1.523,1997
+"Tajikistan",2019,1.512,3383
+"Thailand",2012,0.671,2423234
+"Thailand",2013,0.922,2622618
+"Thailand",2014,0.769,2782429
+"Thailand",2015,1.127,2550109
+"Thailand",2016,1.435,3713222
+"Thailand",2017,0.967,1866243
+"Thailand",2018,0.561,1020420
+"Thailand",2019,1.62,3927593
+"Togo",2012,0.677,649554
+"Togo",2013,0.9,961233
+"Togo",2014,1.07,755941
+"Togo",2015,1.273,1036754
+"Togo",2016,1.344,818319
+"Togo",2017,1.383,798848
+"Togo",2018,1.254,444550
+"Togo",2019,1.47,637167
+"Tokelau",2012,NA,0
+"Tokelau",2013,NA,0
+"Tokelau",2014,NA,0
+"Tokelau",2015,NA,0
+"Tokelau",2016,NA,0
+"Tokelau",2017,NA,0
+"Tokelau",2018,NA,0
+"Tokelau",2019,NA,0
+"Tonga",2012,1.062,0
+"Tonga",2013,1.116,0
+"Tonga",2014,1.038,0
+"Tonga",2015,0.995,0
+"Tonga",2016,1.559,0
+"Tonga",2017,1.381,0
+"Tonga",2018,1.343,0
+"Tonga",2019,1.923,0
+"Trinidad and Tobago",2012,1.034,707
+"Trinidad and Tobago",2013,0.965,2320
+"Trinidad and Tobago",2014,1.43,5495
+"Trinidad and Tobago",2015,1.405,1579
+"Trinidad and Tobago",2016,NA,9973
+"Trinidad and Tobago",2017,NA,3427
+"Trinidad and Tobago",2018,NA,1679
+"Trinidad and Tobago",2019,1.466,3607
+"Tunisia",2012,2.014,19613
+"Tunisia",2013,1.444,28104
+"Tunisia",2014,1.946,31126
+"Tunisia",2015,1.573,17608
+"Tunisia",2016,2.041,13573
+"Tunisia",2017,1.52,38463
+"Tunisia",2018,1.672,4114
+"Tunisia",2019,1.695,15523
+"Turkey",2012,1.555,292067
+"Turkey",2013,1.461,552479
+"Turkey",2014,1.682,280495
+"Turkey",2015,1.056,933410
+"Turkey",2016,1.572,686270
+"Turkey",2017,1.035,397693
+"Turkey",2018,2.385,318886
+"Turkey",2019,1.792,313626
+"Turkmenistan",2012,1.222,56587
+"Turkmenistan",2013,1.706,81413
+"Turkmenistan",2014,0.809,85264
+"Turkmenistan",2015,1.48,98830
+"Turkmenistan",2016,2.071,140940
+"Turkmenistan",2017,1.632,88862
+"Turkmenistan",2018,1.598,66699
+"Turkmenistan",2019,2.137,189081
+"Turks and Caicos Islands",2012,0.975,0
+"Turks and Caicos Islands",2013,1.338,0
+"Turks and Caicos Islands",2014,NA,0
+"Turks and Caicos Islands",2015,NA,0
+"Turks and Caicos Islands",2016,NA,0
+"Turks and Caicos Islands",2017,NA,0
+"Turks and Caicos Islands",2018,NA,380
+"Turks and Caicos Islands",2019,NA,0
+"Tuvalu",2012,0.863,0
+"Tuvalu",2013,0.757,0
+"Tuvalu",2014,0.797,0
+"Tuvalu",2015,0.901,0
+"Tuvalu",2016,NA,0
+"Tuvalu",2017,1.116,0
+"Tuvalu",2018,1.108,0
+"Tuvalu",2019,1.209,0
+"Uganda",2012,1.041,2256473
+"Uganda",2013,1.062,2745101
+"Uganda",2014,1.056,1872551
+"Uganda",2015,1.222,2566297
+"Uganda",2016,1.219,3063452
+"Uganda",2017,1.549,2437840
+"Uganda",2018,1.135,1391334
+"Uganda",2019,1.475,1297606
+"Ukraine",2012,2.29,602427
+"Ukraine",2013,1.521,497448
+"Ukraine",2014,1.552,2220204
+"Ukraine",2015,2.034,2073143
+"Ukraine",2016,2.005,1111447
+"Ukraine",2017,1.414,1604514
+"Ukraine",2018,2.243,751298
+"Ukraine",2019,2.368,1071184
+"United Arab Emirates",2012,1.081,146
+"United Arab Emirates",2013,0.624,0
+"United Arab Emirates",2014,1.198,116
+"United Arab Emirates",2015,1.603,1055
+"United Arab Emirates",2016,0.943,116
+"United Arab Emirates",2017,1.613,232
+"United Arab Emirates",2018,1.521,137
+"United Arab Emirates",2019,1.151,24
+"United Kingdom",2012,0.223,13971
+"United Kingdom",2013,0.364,11263
+"United Kingdom",2014,1.756,5415
+"United Kingdom",2015,0.635,10005
+"United Kingdom",2016,1.083,5909
+"United Kingdom",2017,1.242,13617
+"United Kingdom",2018,1.163,19999
+"United Kingdom",2019,1.315,28100
+"United States Virgin Islands",2012,0.545,0
+"United States Virgin Islands",2013,0.584,0
+"United States Virgin Islands",2014,0.693,0
+"United States Virgin Islands",2015,0.988,0
+"United States Virgin Islands",2016,1.009,0
+"United States Virgin Islands",2017,0.738,0
+"United States Virgin Islands",2018,0.65,186
+"United States Virgin Islands",2019,0.866,0
+"Uruguay",2012,1.04,43329
+"Uruguay",2013,0.106,34163
+"Uruguay",2014,1.017,18293
+"Uruguay",2015,0.843,70310
+"Uruguay",2016,0.359,20893
+"Uruguay",2017,1.319,20774
+"Uruguay",2018,1.132,29245
+"Uruguay",2019,0.72,30866
+"Uzbekistan",2012,0.987,113874
+"Uzbekistan",2013,1.346,123891
+"Uzbekistan",2014,0.167,141332
+"Uzbekistan",2015,1.651,91821
+"Uzbekistan",2016,1.783,89560
+"Uzbekistan",2017,1.715,101449
+"Uzbekistan",2018,0.91,110829
+"Uzbekistan",2019,2.322,100518
+"Vanuatu",2012,0.724,24288
+"Vanuatu",2013,0.975,31294
+"Vanuatu",2014,0.869,31815
+"Vanuatu",2015,0.763,40758
+"Vanuatu",2016,1.433,32230
+"Vanuatu",2017,1.312,34176
+"Vanuatu",2018,NA,32541
+"Vanuatu",2019,1.093,11820
+"Western Sahara",2012,1.504,0
+"Western Sahara",2013,1.417,0
+"Western Sahara",2014,1.189,0
+"Western Sahara",2015,1.811,0
+"Western Sahara",2016,1.617,0
+"Western Sahara",2017,2.099,0
+"Western Sahara",2018,0.909,145
+"Western Sahara",2019,1.56,0
+"World",2012,1.14,437670750
+"World",2013,1.057,387962430
+"World",2014,1.06,406300200
+"World",2015,1.444,443511650
+"World",2016,1.408,416143200
+"World",2017,1.322,411776500
+"World",2018,1.301,329695260
+"World",2019,1.451,407480030
+"Yemen",2012,NA,798
+"Yemen",2013,NA,1164
+"Yemen",2014,NA,1909
+"Yemen",2015,NA,498
+"Yemen",2016,NA,0
+"Yemen",2017,NA,517
+"Yemen",2018,NA,971
+"Yemen",2019,NA,892
+"Zambia",2012,0.996,23413762
+"Zambia",2013,1.114,23450868
+"Zambia",2014,0.811,21109304
+"Zambia",2015,1.876,23737028
+"Zambia",2016,1.677,23266800
+"Zambia",2017,0.567,21293072
+"Zambia",2018,1.332,20552240
+"Zambia",2019,1.605,21792472
+"Zimbabwe",2012,0.633,3271385
+"Zimbabwe",2013,0.163,2564322
+"Zimbabwe",2014,0.291,2863008
+"Zimbabwe",2015,1.141,3196594
+"Zimbabwe",2016,1.303,2179365
+"Zimbabwe",2017,0.321,2445508
+"Zimbabwe",2018,0.471,2710993
+"Zimbabwe",2019,1.119,2757233
