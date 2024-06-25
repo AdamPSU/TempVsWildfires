@@ -8,7 +8,6 @@ library(dplyr)
 library(ggplot2)
 library(tidyr)
 library(tidyverse)
-library(patchwork)
 
 library(stringr)
 ```
@@ -21,8 +20,8 @@ I wish to investigate the correlation between annual land burned by wildfires an
 # Data Intake 
 
 ```{r}
-tempChanges <- read.csv("TemperatureChanges.csv", fileEncoding = "latin1") 
-burntArea <- read.csv("AnnualAreaBurnt.csv")
+tempChanges <- read.csv("datasets/TemperatureChanges.csv", fileEncoding = "latin1") 
+burntArea <- read.csv("datasets/AnnualAreaBurnt.csv")
 ```
 
 
@@ -199,8 +198,7 @@ The data presents some interesting results. There appears to be no discernible r
 
 ### Box plots: What about America?
 
-We've analyzed the results on a global scale; now, let's see if the same trends can be shown in America. First, though, there are some preliminary filters that need to be made. The tempChanges dataset categorizes the united states as 'Northern America', while the burntArea dataset categorizes it as 'North America'. This is problematic. I will filter tempChanges to only include data regarding the United States, and then, 
-I will join the two datasets in the same way to produce the mean temperature changes by area of the United States
+We've analyzed the results on a global scale; now, let's see if the same trends can be shown in America. First, though, there are some preliminary filters that need to be made. The tempChanges dataset categorizes the united states as 'Northern America', while the burntArea dataset categorizes it as 'North America'. This is problematic. I will filter tempChanges to only include data regarding the United States, and then, I will join the two datasets in the same way to produce the mean temperature changes by area of the United States
 
 ```{r}
 tempChanges <- tempChanges %>% 
@@ -224,3 +222,9 @@ ggplot(AmericaTempByArea) +
 ```
 
 Once again, there does not appear to be a strong correlation between the two features. Entries are almost sporadic, and it is hard to draw any conclusive results from the graph. Nevertheless, it is interesting to note the intricate relationships between two variables that intuitively seem related, but in reality, they are not. 
+
+# Conclusion
+
+My analysis set out to investigate the potential correlation between rising temperatures due to global warming and the annual land burned by wildfires. Through extensive data wrangling and visualization, my study revealed that there is no discernible relationship between these two variables. The scatterplot and statistical analysis showed an insignificant correlation, contradicting the initial hypothesis. However, the findings did underscore the continuous rise in global temperatures over the years, highlighting global warming as a pressing issue. While the specific cause of wildfires remains elusive, this research provides valuable insights into the broader impacts of climate change. Further investigation with more comprehensive datasets and refined methodologies could help uncover more nuanced relationships between these and other environmental factors.
+
+
